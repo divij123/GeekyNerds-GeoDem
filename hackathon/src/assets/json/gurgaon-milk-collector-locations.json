@@ -1,0 +1,332 @@
+[
+    {
+        "state": "HARYANA",
+        "town": "Mandi Dabwali (MC)",
+        "district": "SIRSA",
+        "sub-district": "DABWALI"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Kalanwali (MC)",
+        "district": "SIRSA",
+        "sub-district": "SIRSA"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Sirsa (M Cl)",
+        "district": "SIRSA",
+        "sub-district": "SIRSA"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Rania (MC)",
+        "district": "SIRSA",
+        "sub-district": "RANIA"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Ellenabad (MC)",
+        "district": "SIRSA",
+        "sub-district": "ELLENABAD"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Bawani khera (MC)",
+        "district": "BHIWANI",
+        "sub-district": "BAWANI KHERA"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Bhiwani (M Cl)",
+        "district": "BHIWANI",
+        "sub-district": "BHIWANI"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Tosham (CT)",
+        "district": "BHIWANI",
+        "sub-district": "TOSHAM"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Siwani (MC)",
+        "district": "BHIWANI",
+        "sub-district": "SIWANI"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Loharu (MC)",
+        "district": "BHIWANI",
+        "sub-district": "LOHARU"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Charkhi Dadri (MC)",
+        "district": "BHIWANI",
+        "sub-district": "DADRI"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Adampur (CT)",
+        "district": "HISAR",
+        "sub-district": "ADAMPUR"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Barwala (MC)",
+        "district": "HISAR",
+        "sub-district": "HISAR"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Hisar (M Cl + OG)",
+        "district": "HISAR",
+        "sub-district": "HISAR"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Uklana Mandi (CT)",
+        "district": "HISAR",
+        "sub-district": "HISAR"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Gangwa (166) (CT)",
+        "district": "HISAR",
+        "sub-district": "HISAR"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Satrod Khurd (155) (CT)",
+        "district": "HISAR",
+        "sub-district": "HISAR"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Satrod Khas (154) (CT)",
+        "district": "HISAR",
+        "sub-district": "HISAR"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Satrod Kalan(153) (CT)",
+        "district": "HISAR",
+        "sub-district": "HISAR"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Mayyer (151) (CT)",
+        "district": "HISAR",
+        "sub-district": "HISAR"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Narwana (M Cl)",
+        "district": "JIND",
+        "sub-district": "NARWANA"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Uchana (MC)",
+        "district": "JIND",
+        "sub-district": "NARWANA"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Jind (M Cl)",
+        "district": "JIND",
+        "sub-district": "JIND"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Julana (MC)",
+        "district": "JIND",
+        "sub-district": "JULANA"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Safidon (MC)",
+        "district": "JIND",
+        "sub-district": "SAFIDON"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Bhuran (16) (CT)",
+        "district": "JIND",
+        "sub-district": "SAFIDON"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Cheeka (MC)",
+        "district": "KAITHAL",
+        "sub-district": "GUHLA"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Kaithal (M Cl)",
+        "district": "KAITHAL",
+        "sub-district": "KAITHAL"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Kalayat (MC)",
+        "district": "KAITHAL",
+        "sub-district": "KAITHAL"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Pundri (MC + OG)",
+        "district": "KAITHAL",
+        "sub-district": "FATEHPUR PUNDRI"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Panipat (M Cl + OG)",
+        "district": "PANIPAT",
+        "sub-district": "PANIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Kachrauli (1) (CT)",
+        "district": "PANIPAT",
+        "sub-district": "PANIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Kabri (18) (CT)",
+        "district": "PANIPAT",
+        "sub-district": "PANIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Sikanderpur (19) (CT)",
+        "district": "PANIPAT",
+        "sub-district": "PANIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Asan Khurd (CT)",
+        "district": "PANIPAT",
+        "sub-district": "PANIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Panipat Taraf Ansar (CT)",
+        "district": "PANIPAT",
+        "sub-district": "PANIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Panipat Taraf Makhdum Zadgan (CT)",
+        "district": "PANIPAT",
+        "sub-district": "PANIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Ugra Kheri(19) (CT)",
+        "district": "PANIPAT",
+        "sub-district": "PANIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Panipat Taraf Rajputan (CT)",
+        "district": "PANIPAT",
+        "sub-district": "PANIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Sec. 11&12 Part II (CT)",
+        "district": "PANIPAT",
+        "sub-district": "PANIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Kheri Nangal (131) (CT)",
+        "district": "PANIPAT",
+        "sub-district": "PANIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Samalkha (MC + OG)",
+        "district": "PANIPAT",
+        "sub-district": "SAMALKHA"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Gohana (MC)",
+        "district": "SONIPAT",
+        "sub-district": "GOHANA"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Ganaur (MC)",
+        "district": "SONIPAT",
+        "sub-district": "GANAUR"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Sonipat (M Cl + OG)",
+        "district": "SONIPAT",
+        "sub-district": "SONIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Fazalpur (81) (CT)",
+        "district": "SONIPAT",
+        "sub-district": "SONIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Bayyanpur (207) (CT)",
+        "district": "SONIPAT",
+        "sub-district": "SONIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Badh Malak (68) (CT)",
+        "district": "SONIPAT",
+        "sub-district": "SONIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Kundli (55) (CT)",
+        "district": "SONIPAT",
+        "sub-district": "SONIPAT"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Kharkhoda (MC)",
+        "district": "SONIPAT",
+        "sub-district": "KHARKHODA"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Maham (MC)",
+        "district": "ROHTAK",
+        "sub-district": "MAHAM"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Rohtak (M Cl)",
+        "district": "ROHTAK",
+        "sub-district": "ROHTAK"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Kalanaur (MC)",
+        "district": "ROHTAK",
+        "sub-district": "ROHTAK"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Sunari Kalan (101) (CT)",
+        "district": "ROHTAK",
+        "sub-district": "ROHTAK"
+    },
+    {
+        "state": "HARYANA",
+        "town": "Sampla (MC)",
+        "district": "ROHTAK",
+        "sub-district": "SAMPLA"
+    }
+]

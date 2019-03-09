@@ -1,0 +1,27 @@
+[
+    {
+        "class": "fas fa-home feather\n",
+        "text": "Dashboard\n"
+    },
+    {
+        "class": "fas fa-file feather\n",
+        "text": "Orders\n"
+    },
+    {
+        "class": "fas fa-shopping-cart feather\n",
+        "text": "Products\n"
+    },
+    {
+        "class": "fas fa-chart-bar feather\n",
+        "text": "Reports\n"
+    }
+    ,
+    {
+        "class": "fas fa-layer-group feather\n",
+        "text": "Integrations\n"
+    },
+    {
+        "class": "fas fa-chart-bar feather\n",
+        "text": "Reports\n"
+    }
+]
