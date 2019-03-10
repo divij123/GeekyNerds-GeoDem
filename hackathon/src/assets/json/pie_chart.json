@@ -1,40 +1,36 @@
 {
     "data": [
         {
-            "country": "Lithuania",
-            "litres": 501.9
+            "state": "Haryana",
+            "production": 501.9
         },
         {
-            "country": "Czech Republic",
-            "litres": 301.9
+            "state": "Madhya Pradesh",
+            "production": 301.9
         },
         {
-            "country": "Ireland",
-            "litres": 201.1
+            "state": "Gujarat",
+            "production": 201.1
         },
         {
-            "country": "Germany",
-            "litres": 165.8
+            "state": "Germany",
+            "production": 165.8
         },
         {
-            "country": "Australia",
-            "litres": 139.9
+            "state": "Maharashtra",
+            "production": 139.9
         },
         {
-            "country": "Austria",
-            "litres": 128.3
+            "state": "Meghalaya",
+            "production": 128.3
         },
         {
-            "country": "UK",
-            "litres": 99
+            "state": "Telangana",
+            "production": 99
         },
         {
-            "country": "Belgium",
-            "litres": 60
-        },
-        {
-            "country": "The Netherlands",
-            "litres": 50
+            "state": "Andhra Pradesh",
+            "production": 60
         }
     ]
 }

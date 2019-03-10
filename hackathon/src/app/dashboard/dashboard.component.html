@@ -1,0 +1,33 @@
+<app-navbar></app-navbar>
+<app-sidebar></app-sidebar>
+
+<main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+  <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+    <h1 class="h2">Statistics</h1>
+  </div>
+
+  <app-card></app-card>
+
+  <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+    <h1 class="h2">Charting</h1>
+  </div>
+  <br><br>
+  <div class="row">
+    <div class="col-sm-6">
+      <app-pie-chart></app-pie-chart>
+    </div>
+    <div class="col-sm-6">
+      <app-pie-chart></app-pie-chart>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
+      <app-pie-chart></app-pie-chart>
+    </div>
+    <div class="col-sm-6">
+      <app-pie-chart></app-pie-chart>
+    </div>
+  </div>
+</main>
+
+<router-outlet></router-outlet>

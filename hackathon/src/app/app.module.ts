@@ -22,6 +22,10 @@ import { MapComponent } from './map/map.component';
 import { AgricultureComponent } from './agriculture/agriculture.component';
 import { RestaurantComponent } from './restaurant/restaurant.component';
 import { MilkComponent } from './milk/milk.component';
+import { HospitalComponent } from './hospital/hospital.component';
+import { CardComponent } from './card/card.component';
+import { ChatbotComponent } from './chatbot/chatbot.component';
+import { PieChartComponent } from './pie-chart/pie-chart.component';
 
 @NgModule({
   declarations: [
@@ -34,7 +38,11 @@ import { MilkComponent } from './milk/milk.component';
     MapComponent,
     AgricultureComponent,
     RestaurantComponent,
-    MilkComponent
+    MilkComponent,
+    HospitalComponent,
+    CardComponent,
+    ChatbotComponent,
+    PieChartComponent
   ],
   imports: [
     BrowserModule,

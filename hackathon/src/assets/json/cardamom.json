@@ -1,0 +1,2330 @@
+ [
+    {
+      "Crop": "Cardamom",
+      "Area": 2.87,
+      "Production": 0.7,
+      "State_Name": "West Bengal",
+      "District_Name": "DARJEELING",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1242,
+      "Production": 120,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1245,
+      "Production": 110,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1391,
+      "Production": 134,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1418,
+      "Production": 136,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1484,
+      "Production": 142,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1491,
+      "Production": 143,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1494,
+      "Production": 143,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1499,
+      "Production": 143,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1501,
+      "Production": 144,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1509,
+      "Production": 145,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1516,
+      "Production": 146,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1989,
+      "Production": 122,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2037,
+      "Production": 129,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2127,
+      "Production": 301,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2221,
+      "Production": 158,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2240,
+      "Production": 197,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2290,
+      "Production": 324,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2754,
+      "Production": 270,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2754,
+      "Production": 260,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2754,
+      "Production": 213,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2754,
+      "Production": 201,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2754,
+      "Production": 190,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2724,
+      "Production": 167,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1241,
+      "Production": 119,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2674,
+      "Production": 7,
+      "State_Name": "West Bengal",
+      "District_Name": "DARJEELING",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2620,
+      "Production": 161,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2601,
+      "Production": 160,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2569,
+      "Production": 158,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2524,
+      "Production": 155,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2304,
+      "Production": 162,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2294,
+      "Production": 143,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2639,
+      "Production": 162,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2754,
+      "Production": 274,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1222,
+      "Production": 116,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1200,
+      "Production": 110,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 579,
+      "Production": 71,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 616,
+      "Production": 57,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 660,
+      "Production": 63,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 33078,
+      "Production": 7827,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 8,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 9,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 11,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 24,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 46,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 61,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 67,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 77,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 78,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 79,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 82,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 673,
+      "Production": 63,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 717,
+      "Production": 67,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1054,
+      "Production": 98,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1036,
+      "Production": 96,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1034,
+      "Production": 96,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1014,
+      "Production": 94,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 980,
+      "Production": 90,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 979,
+      "Production": 91,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 1207,
+      "Production": 55,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 842,
+      "Production": 81,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 833,
+      "Production": 68,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "COIMBATORE",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 831,
+      "Production": 80,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 789,
+      "Production": 98,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 760,
+      "Production": 73,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 759,
+      "Production": 73,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 752,
+      "Production": 72,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 834,
+      "Production": 70,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "COIMBATORE",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 536,
+      "Production": 64,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2754,
+      "Production": 284,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2756,
+      "Production": 229,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7707,
+      "Production": 679,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7748,
+      "Production": 568,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8073,
+      "Production": 615,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8165,
+      "Production": 509,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8170,
+      "Production": 510,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8267,
+      "Production": 516,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8289,
+      "Production": 443,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8326,
+      "Production": 478,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8330,
+      "Production": 635,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8376,
+      "Production": 481,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8811,
+      "Production": 550,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8943,
+      "Production": 558,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8950,
+      "Production": 558,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 9043,
+      "Production": 1164,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 9325,
+      "Production": 582,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 9800,
+      "Production": 611,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 10411,
+      "Production": 1340,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 33076,
+      "Production": 9286,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 32856,
+      "Production": 7931,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 32846,
+      "Production": 9076,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 32840,
+      "Production": 7894,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 32815,
+      "Production": 8224,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 32743,
+      "Production": 8057,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7687,
+      "Production": 594,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 32686,
+      "Production": 4556,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 32668,
+      "Production": 7788,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 32667,
+      "Production": 6077,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 31810,
+      "Production": 15000,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 31810,
+      "Production": 13040,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 31241,
+      "Production": 6404,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 12682,
+      "Production": 791,
+      "State_Name": "Karnataka",
+      "District_Name": "KODAGU",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 32671,
+      "Production": 7072,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2754,
+      "Production": 330,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7670,
+      "Production": 547,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7560,
+      "Production": 367,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2872,
+      "Production": 176,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2875,
+      "Production": 704,
+      "State_Name": "West Bengal",
+      "District_Name": "DARJEELING",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2917,
+      "Production": 179,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2919,
+      "Production": 180,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2921,
+      "Production": 176,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2928,
+      "Production": 175,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 3096,
+      "Production": 190,
+      "State_Name": "Karnataka",
+      "District_Name": "CHIKMAGALUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4106,
+      "Production": 300,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4106,
+      "Production": 324,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4106,
+      "Production": 329,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4106,
+      "Production": 359,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4106,
+      "Production": 366,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4106,
+      "Production": 380,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4107,
+      "Production": 317,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4108,
+      "Production": 201,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4108,
+      "Production": 244,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4108,
+      "Production": 245,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7554,
+      "Production": 561,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7554,
+      "Production": 411,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7489,
+      "Production": 363,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7463,
+      "Production": 621,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7443,
+      "Production": 361,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7405,
+      "Production": 601,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7608,
+      "Production": 670,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7403,
+      "Production": 359,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7105,
+      "Production": 345,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7097,
+      "Production": 344,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4125,
+      "Production": 690,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4125,
+      "Production": 650,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4120,
+      "Production": 610,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4110,
+      "Production": 345,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7345,
+      "Production": 356,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 533,
+      "Production": 66,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 6,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 528,
+      "Production": 67,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 129,
+      "Production": 12,
+      "State_Name": "Kerala",
+      "District_Name": "KOTTAYAM",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 131,
+      "Production": 12,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 133,
+      "Production": 10,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "KANNIYAKUMARI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 137,
+      "Production": 13,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 139,
+      "Production": 6,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 140,
+      "Production": 220,
+      "State_Name": "Nagaland",
+      "District_Name": "KOHIMA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 145,
+      "Production": 10,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "SALEM",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 150,
+      "Production": 20,
+      "State_Name": "Nagaland",
+      "District_Name": "KOHIMA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 150,
+      "Production": 250,
+      "State_Name": "Nagaland",
+      "District_Name": "WOKHA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 160,
+      "Production": 260,
+      "State_Name": "Nagaland",
+      "District_Name": "PHEK",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 164,
+      "Production": 8,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 170,
+      "Production": 280,
+      "State_Name": "Nagaland",
+      "District_Name": "MOKOKCHUNG",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 127,
+      "Production": 8,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 171,
+      "Production": 8,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 173,
+      "Production": 8,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 193,
+      "Production": 19,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 200,
+      "Production": 12,
+      "State_Name": "Kerala",
+      "District_Name": "KOTTAYAM",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 200,
+      "Production": 13,
+      "State_Name": "Kerala",
+      "District_Name": "KOTTAYAM",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 532,
+      "Production": 53,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 200,
+      "Production": 19,
+      "State_Name": "Kerala",
+      "District_Name": "KOTTAYAM",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 200,
+      "Production": 20,
+      "State_Name": "Kerala",
+      "District_Name": "KOTTAYAM",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 201,
+      "Production": 26,
+      "State_Name": "Kerala",
+      "District_Name": "KOTTAYAM",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 220,
+      "Production": 3,
+      "State_Name": "Kerala",
+      "District_Name": "KOZHIKODE",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 220,
+      "Production": 4,
+      "State_Name": "Kerala",
+      "District_Name": "KOZHIKODE",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 224,
+      "Production": 22,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 237,
+      "Production": 18,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 172,
+      "Production": 8,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 124,
+      "Production": 12,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 124,
+      "Production": 10,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "KANNIYAKUMARI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 116,
+      "Production": 9,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 8,
+      "Production": 1,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "ERODE",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 9,
+      "Production": 1,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DINDIGUL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 10,
+      "Production": 1,
+      "State_Name": "Karnataka",
+      "District_Name": "CHAMARAJANAGAR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 10,
+      "Production": 10,
+      "State_Name": "Nagaland",
+      "District_Name": "MOKOKCHUNG",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 12,
+      "Production": 1,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "KANNIYAKUMARI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 13,
+      "Production": 1,
+      "State_Name": "Karnataka",
+      "District_Name": "CHAMARAJANAGAR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 16,
+      "Production": 1,
+      "State_Name": "Karnataka",
+      "District_Name": "MYSORE",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 20,
+      "Production": 2,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "ERODE",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 20,
+      "Production": 10,
+      "State_Name": "Nagaland",
+      "District_Name": "KIPHIRE",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 21,
+      "Production": 1,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "NAMAKKAL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 21,
+      "Production": 1,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "SALEM",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 22,
+      "Production": 2,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "NAMAKKAL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 23,
+      "Production": 2,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "NAMAKKAL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 25,
+      "Production": 2,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "ERODE",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 27,
+      "Production": 2,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "SALEM",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 28,
+      "Production": 2,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "NAMAKKAL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 30,
+      "Production": 10,
+      "State_Name": "Nagaland",
+      "District_Name": "MOKOKCHUNG",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 35,
+      "Production": 2,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "SALEM",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 50,
+      "Production": 30,
+      "State_Name": "Nagaland",
+      "District_Name": "KOHIMA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 51,
+      "Production": 5,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "KANNIYAKUMARI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 60,
+      "Production": 10,
+      "State_Name": "Nagaland",
+      "District_Name": "TUENSANG",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 60,
+      "Production": 10,
+      "State_Name": "Nagaland",
+      "District_Name": "ZUNHEBOTO",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 65,
+      "Production": 6,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 77,
+      "Production": 7,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 80,
+      "Production": 20,
+      "State_Name": "Nagaland",
+      "District_Name": "MON",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 100,
+      "Production": 50,
+      "State_Name": "Nagaland",
+      "District_Name": "PHEK",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 112,
+      "Production": 11,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THENI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 245,
+      "Production": 704,
+      "State_Name": "West Bengal",
+      "District_Name": "DARJEELING",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 251,
+      "Production": 23,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "THE NILGIRIS",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 33083,
+      "Production": 7077,
+      "State_Name": "Kerala",
+      "District_Name": "IDUKKI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 258,
+      "Production": 42,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 320,
+      "Production": 32,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DINDIGUL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 324,
+      "Production": 24,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DHARMAPURI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 325,
+      "Production": 28,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "VIRUDHUNAGAR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 327,
+      "Production": 22,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 332,
+      "Production": 30,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "VIRUDHUNAGAR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 344,
+      "Production": 29,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "VIRUDHUNAGAR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 258,
+      "Production": 12,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 362,
+      "Production": 40,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DINDIGUL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 369,
+      "Production": 20,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 379,
+      "Production": 36,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 400,
+      "Production": 54,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 400,
+      "Production": 60,
+      "State_Name": "Nagaland",
+      "District_Name": "PHEK",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 412,
+      "Production": 69,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 317,
+      "Production": 27,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "VIRUDHUNAGAR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 422,
+      "Production": 20,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 431,
+      "Production": 24,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 443,
+      "Production": 25,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 445,
+      "Production": 25,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 448,
+      "Production": 25,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 450,
+      "Production": 25,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 451,
+      "Production": 25,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 471,
+      "Production": 26,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 495,
+      "Production": 85,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 505,
+      "Production": 47,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 515,
+      "Production": 1,
+      "State_Name": "Kerala",
+      "District_Name": "KASARAGOD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 517,
+      "Production": 29,
+      "State_Name": "Karnataka",
+      "District_Name": "UTTAR KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 518,
+      "Production": 24,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 523,
+      "Production": 24,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 425,
+      "Production": 41,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "TIRUNELVELI",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 314,
+      "Production": 21,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 344,
+      "Production": 30,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "VIRUDHUNAGAR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 292,
+      "Production": 40,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 279,
+      "Production": 21,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 278,
+      "Production": 40,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 274,
+      "Production": 27,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DINDIGUL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 280,
+      "Production": 21,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 274,
+      "Production": 21,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 272,
+      "Production": 21,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 280,
+      "Production": 430,
+      "State_Name": "Nagaland",
+      "District_Name": "DIMAPUR",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 282,
+      "Production": 28,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DINDIGUL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 268,
+      "Production": 27,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DINDIGUL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 270,
+      "Production": 21,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 267,
+      "Production": 20,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 284,
+      "Production": 24,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 289,
+      "Production": 29,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DINDIGUL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 289,
+      "Production": 22,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 286,
+      "Production": 28,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DINDIGUL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 284,
+      "Production": 28,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DINDIGUL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 285,
+      "Production": 28,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DINDIGUL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 260,
+      "Production": 26,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "DINDIGUL",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 284,
+      "Production": 22,
+      "State_Name": "Karnataka",
+      "District_Name": "SHIMOGA",
+      "values": 2
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 200,
+      "Production": 21,
+      "State_Name": "Kerala",
+      "District_Name": "KOTTAYAM",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 200,
+      "Production": 24,
+      "State_Name": "Kerala",
+      "District_Name": "KOTTAYAM",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 200,
+      "Production": 25,
+      "State_Name": "Kerala",
+      "District_Name": "KOTTAYAM",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 664,
+      "Production": 12,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 16,
+      "Production": 1,
+      "State_Name": "Karnataka",
+      "District_Name": "CHAMARAJANAGAR",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 15,
+      "Production": 1,
+      "State_Name": "Karnataka",
+      "District_Name": "CHAMARAJANAGAR",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 14,
+      "Production": 1,
+      "State_Name": "Karnataka",
+      "District_Name": "CHAMARAJANAGAR",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2754,
+      "Production": 333,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 220,
+      "Production": 5,
+      "State_Name": "Kerala",
+      "District_Name": "KOZHIKODE",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 9,
+      "Production": 1,
+      "State_Name": "Karnataka",
+      "District_Name": "CHAMARAJANAGAR",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 20,
+      "Production": 10,
+      "State_Name": "Nagaland",
+      "District_Name": "WOKHA",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 30,
+      "Production": 2,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "NAMAKKAL",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 48,
+      "Production": 4,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "KANNIYAKUMARI",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 665,
+      "Production": 8,
+      "State_Name": "Kerala",
+      "District_Name": "PATHANAMTHITTA",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 130,
+      "Production": 11,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 869,
+      "Production": 68,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "COIMBATORE",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 124,
+      "Production": 11,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "KANNIYAKUMARI",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 122,
+      "Production": 10,
+      "State_Name": "Karnataka",
+      "District_Name": "DAKSHIN KANNAD",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 813,
+      "Production": 63,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "COIMBATORE",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 85,
+      "Production": 5,
+      "State_Name": "Kerala",
+      "District_Name": "KOTTAYAM",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 367,
+      "Production": 1,
+      "State_Name": "Kerala",
+      "District_Name": "KASARAGOD",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2755,
+      "Production": 290,
+      "State_Name": "Kerala",
+      "District_Name": "PALAKKAD",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 7555,
+      "Production": 366,
+      "State_Name": "Karnataka",
+      "District_Name": "HASSAN",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 200,
+      "Production": 14,
+      "State_Name": "Kerala",
+      "District_Name": "KOTTAYAM",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 368,
+      "Production": 1,
+      "State_Name": "Kerala",
+      "District_Name": "KASARAGOD",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2875,
+      "Production": 690,
+      "State_Name": "West Bengal",
+      "District_Name": "DARJEELING",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 4106,
+      "Production": 362,
+      "State_Name": "Kerala",
+      "District_Name": "WAYANAD",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 39,
+      "Production": 3,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "SALEM",
+      "values": 4
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 15,
+      "Production": 1,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "NAMAKKAL",
+      "values": 6
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 60,
+      "Production": 6,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "KANNIYAKUMARI",
+      "values": 6
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 70,
+      "Production": 1,
+      "State_Name": "Kerala",
+      "District_Name": "MALAPPURAM",
+      "values": 6
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 2874,
+      "Production": 704,
+      "State_Name": "West Bengal",
+      "District_Name": "DARJEELING",
+      "values": 8
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 42,
+      "Production": 3,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "SALEM",
+      "values": 8
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 70,
+      "Production": 2,
+      "State_Name": "Kerala",
+      "District_Name": "MALAPPURAM",
+      "values": 8
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 220,
+      "Production": 1,
+      "State_Name": "Kerala",
+      "District_Name": "KOZHIKODE",
+      "values": 10
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 70,
+      "Production": 3,
+      "State_Name": "Kerala",
+      "District_Name": "MALAPPURAM",
+      "values": 10
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 808,
+      "Production": 63,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "COIMBATORE",
+      "values": 10
+    },
+    {
+      "Crop": "Cardamom",
+      "Area": 279,
+      "Production": 24,
+      "State_Name": "Tamil Nadu",
+      "District_Name": "VIRUDHUNAGAR",
+      "values": 14
+    }
+  ]

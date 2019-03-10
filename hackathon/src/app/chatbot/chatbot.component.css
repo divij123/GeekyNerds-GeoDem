@@ -1,0 +1,15 @@
+iframe:focus { 
+  outline: none;
+}
+
+iframe[seamless] { 
+  display: block;
+}
+
+iframe {
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 250px; 
+    height: 500px !important;
+    position: relative;
+}

@@ -1,19 +1,16 @@
 import { Component, OnInit, NgZone, Inject } from '@angular/core';
-import { SidebarService } from '../serivce/sidebar.service';
 import * as am4core from "@amcharts/amcharts4/core";
 import * as am4charts from "@amcharts/amcharts4/charts";
 import am4themes_animated from "@amcharts/amcharts4/themes/animated";
+import { SidebarService } from '../serivce/sidebar.service';
 import { DOCUMENT } from '@angular/common';
 
-
-am4core.useTheme(am4themes_animated);
-
 @Component({
-  selector: 'app-milk',
-  templateUrl: './milk.component.html',
-  styleUrls: ['./milk.component.css']
-})  
-export class MilkComponent implements OnInit {
+  selector: 'app-hospital',
+  templateUrl: './hospital.component.html',
+  styleUrls: ['./hospital.component.css']
+})
+export class HospitalComponent implements OnInit {
 
   constructor(private service: SidebarService, private zone: NgZone, @Inject(DOCUMENT) private document: any) { }
   url = "../assets/json/gurgaon-milk-collector-locations.json";
@@ -32,7 +29,7 @@ export class MilkComponent implements OnInit {
   }
 
   private chart: am4charts.XYChart;
- 
+
 
   ngAfterViewInit() {
     this.zone.runOutsideAngular(() => {
@@ -64,8 +61,6 @@ export class MilkComponent implements OnInit {
         "expenses": 32.9,
         "strokeWidth": 1,
         "columnDash": "5,5",
-        "fillOpacity": 0.2,
-        "additional": "(projection)"
       }];
 
       let categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
